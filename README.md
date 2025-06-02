@@ -1,1 +1,7 @@
-# data-cleaning
+- Removed X rows with missing values
+- Filled missing ages with average
+- Removed Y duplicate rows
+- Standardized gender text (e.g., "Male", "FEMALE" → "male", "female")
+- Converted 'date' column to datetime format
+- Renamed columns to lowercase with underscores
+- Fixed data types (e.g., age to int, date to datetime)
